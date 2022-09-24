@@ -1,0 +1,84 @@
+ .u-section-1 {
+  background-image: url("images/Designsemnome.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 593px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 314px;
+  min-height: 559px;
+  height: auto;
+  margin: 60px -27px 31px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 221px;
+  height: 64px;
+  margin: 23px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 181px;
+  margin: 31px 7px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 auto 0 77px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 25px 31px 0 18px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 489px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 307px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 375px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 281px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 177px;
+  }
+}
